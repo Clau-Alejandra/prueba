@@ -1,3 +1,33 @@
-edddscvf
+<!doctype html/>
+<html lang="es">
+<head>
 
-bjhbjbj
+<meta charset="utf-8"/>
+<meta description="prueba intentando programar u_u asdasbdajs fruta pan y café"/>
+	<title> hola hola hola :p</title>
+</head>
+<body>
+
+<header>
+	<figure id="logo">
+	</figure>
+</header>
+	<nav>
+		
+	</nav>
+	<section>
+		<article>
+			
+		</article>
+	</section>
+	<footer>
+		<p>
+			<strong>JIJIJI</strong>
+
+		</p>
+		<p>
+			jeijei.34
+		</p>
+	</footer>
+</body>
+</html>
